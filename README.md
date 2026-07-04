@@ -1,6 +1,6 @@
-# 5 Guys — H&M Customer Intelligence Pipeline
+#  H&M Customer Intelligence Pipeline
 
-**Team:** Riya · Atharva · Farhan · Sacharith · Shubhendu  
+
 **Dataset:** H&M Kaggle — 1.37M customers · 9.1M transactions · 105K products
 
 ---
